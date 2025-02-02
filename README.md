@@ -7,7 +7,7 @@ Exploratory Data Analysis (EDA): Visualizing key demographic distributions using
 User Segmentation: Categorizing users into different segments based on demographic attributes.
 Insights for Targeted Ads: Identifying trends that help in crafting effective ad strategies.
 ## Technologies Used
-Python
-Pandas
-Matplotlib
-Seaborn
+Python <br>
+Pandas <br>
+Matplotlib <br>
+Seaborn <br>
